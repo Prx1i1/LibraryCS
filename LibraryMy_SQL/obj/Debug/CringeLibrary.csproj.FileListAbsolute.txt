@@ -1,0 +1,146 @@
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\obj\Debug\CringeLibrary.csprojAssemblyReference.cache
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\obj\Debug\CringeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\libsodium.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\CringLibrary.dll.config
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\CringLibrary.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\CringLibrary.pdb
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\csc.exe
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\csc.exe.config
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\csc.rsp
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\csi.exe
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\csi.exe.config
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\csi.rsp
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.AppContext.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Console.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Net.Http.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\vbc.exe
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\vbc.exe.config
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\vbc.rsp
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\Google.Protobuf.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\ZstdNet.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\BouncyCastle.Crypto.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\Ubiety.Dns.Core.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\System.Memory.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\System.Buffers.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\K4os.Compression.LZ4.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\K4os.Hash.xxHash.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\MySql.Data.xml
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\MySql.Data.EntityFramework.xml
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\MySql.Web.xml
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\obj\Debug\CringeLibrary.csproj.CopyComplete
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\obj\Debug\CringLibrary.dll
+C:\Users\Tociej\Desktop\LibraryMy_SQL\LibraryMy_SQL\obj\Debug\CringLibrary.pdb
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\libsodium.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\CringLibrary.dll.config
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\CringLibrary.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\CringLibrary.pdb
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\Google.Protobuf.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\ZstdNet.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\System.Memory.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\System.Buffers.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\MySql.Data.xml
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\MySql.Data.EntityFramework.xml
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\MySql.Web.xml
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\obj\Debug\CringeLibrary.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\obj\Debug\CringeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\obj\Debug\CringeLibrary.csproj.CopyComplete
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\obj\Debug\CringLibrary.dll
+C:\Users\PC\Desktop\Tokarz Maciej 3P - library\Cring\LibraryMy_SQL\obj\Debug\CringLibrary.pdb

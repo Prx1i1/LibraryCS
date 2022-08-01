@@ -1,0 +1,74 @@
+﻿* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    --primary: white;
+    --secondary: black;
+    --background-color: black;
+    --item-background: orange;
+    --item-hover-background: yellow;
+    transition: color var(--transition-speed) ease-out;
+    transition: background-color var(--transition-speed) ease-out;
+    overflow: hidden;
+    background-color: var(--background-color);
+}
+
+
+.main {
+    height: 20rem;
+    border-radius: 15px;
+    width: 40vw;
+    margin: 10% auto;
+    background-color: var(--background-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid var(--item-background)
+}
+
+.a {
+    width: 75%;
+}
+
+input {
+    text-align: center;
+}
+
+    input:focus {
+        outline: none;
+    }
+
+.span {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.a > .span > .input {
+    width: 100%;
+}
+
+.a > .span {
+    margin: 0 20%;
+}
+
+.button {
+    height: 2rem;
+    width: 45%;
+    background-color: var(--item-background);
+    color: var(--element-color);
+    border: none;
+    border-radius: 15px;
+}
+
+    .button:hover {
+        background-color: var(--item-hover-background);
+    }
+
+span {
+    color: var(--primary);
+}

@@ -1,0 +1,37 @@
+﻿* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+body {
+    --primary: white;
+    --secondary: black;
+    --background-color: black;
+    --item-background: orange;
+    --item-hover-background: yellow;
+    transition: color var(--transition-speed) ease-out;
+    transition: background-color var(--transition-speed) ease-out;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: var(--background-color);
+    color: var(--primary);
+    border-color: var(--item-background);
+    border-radius: 15px;
+}
+.button:hover {
+    color: var(--background-color);
+    background-color: var(--item-hover-background);
+}
+input[type="submit"]:hover{
+    color: var(--background-color);
+    background-color: var(--item-hover-background);
+}
+.button {
+    height: 2rem;
+    width: 50%;
+    background-color: var(--item-background);
+    color: var(--element-color);
+    border: none;
+    border-radius: 15px;
+}
